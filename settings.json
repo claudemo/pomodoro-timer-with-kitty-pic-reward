@@ -3,8 +3,8 @@
   "timerPanelForeground": -1,
   "breakTime": 5,
   "timerDialogFontSize": 30,
-  "iconThemeDark": false,
+  "iconThemeDark": true,
   "timerPanelBackground": -16777216,
-  "workTime": 20,
+  "workTime": 25,
   "continuousMode": true
 }
