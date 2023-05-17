@@ -1,0 +1,10 @@
+{
+  "longBreakTime": 15,
+  "timerPanelForeground": -1,
+  "breakTime": 5,
+  "timerDialogFontSize": 30,
+  "iconThemeDark": false,
+  "timerPanelBackground": -16777216,
+  "workTime": 20,
+  "continuousMode": true
+}
